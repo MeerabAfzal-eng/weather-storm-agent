@@ -1,0 +1,29 @@
+[
+  {
+    "content": "Headline: Clear skies over Lahore with no rain or storm risk\nRisk: NONE\nLahore experiences clear weather today with temperatures around 22?24 degC, low humidity, and gentle southeast breezes. No rain is expected in the next six hours and there is no storm risk.",
+    "metadata": {
+      "pdf_filename": "lahore_weather_20261127_111810.pdf",
+      "report_prefix": "Lahore_Weather",
+      "risk_level": "None",
+      "created_at": "2026-11-27T11:18:10.610407"
+    }
+  },
+  {
+    "content": "Headline: Istanbul 6?Hour Forecast: Overcast Skies with Moderate Storm Risk\nRisk: MODERATE\nIstanbul will remain overcast for the next six hours with temperatures rising slightly to 16 degC. No rain is expected, but wind gusts may reach up to 36?km/h, giving a moderate storm risk despite no storm signal. Residents should stay aware of gusty conditions, especially in exposed areas.",
+    "metadata": {
+      "pdf_filename": "istanbul_6hr_20261127_111920.pdf",
+      "report_prefix": "Istanbul_6hr_",
+      "risk_level": "Moderate",
+      "created_at": "2026-11-27T11:19:20.701963"
+    }
+  },
+  {
+    "content": "Headline: High Storm Risk Expected in London Over Next 3 Days\nRisk: HIGH\nLondon will remain overcast for the next three days with temperatures gradually climbing from 2 degC to around 10 degC. Rain chances peak at 94% overall, accumulating up to 18.8 mm, while gusts may reach 41.8 km/h. Storm risk is rated High due to strong winds and heavy rain potential. Residents should stay alert, secure outdoor items, and consider postponing travel where possible.",
+    "metadata": {
+      "pdf_filename": "london_3day_storm_20261127_112039.pdf",
+      "report_prefix": "London_3day_Storm",
+      "risk_level": "High",
+      "created_at": "2026-11-27T11:20:39.388565"
+    }
+  }
+]
